@@ -30,7 +30,7 @@ class ParticleFilter
 	
 public:
 	ParticleFilter(void);
-	ParticleFilter(const cv::Mat &inZ, const cv::Mat &inR, unsigned int inN=250);
+	ParticleFilter(const cv::Mat &inZ, const cv::Mat &inR, unsigned int inN=1000);
 	void resampleParticles();
 	void predict();
 	void update(const cv::Mat &inZ);
