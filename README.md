@@ -26,6 +26,5 @@ Further work can be done to write color histogram-based particles from the follo
 Examples
 ========
 
-TODO: Add examples
-<img src="https://github.com/devkicks/OpenCVKinect/blob/master/CollectedSampleData/color/colorAGif.gif" alt="Color Image" width="400"/>
-<img src="https://github.com/devkicks/OpenCVKinect/blob/master/CollectedSampleData/colorizedDepth/colorizedDepthAGif.gif" alt="Colorized Depth" width="400"/>
+<img src="https://github.com/devkicks/OpenCVParticleFilter/blob/master/OpenCVParticleFilter/output/inputGif.gif" alt="Input Image" width="400"/>
+<img src="https://github.com/devkicks/OpenCVParticleFilter/blob/master/OpenCVParticleFilter/output/outputGif.gif" alt="Tracked Output" width="400"/>
